@@ -2,7 +2,6 @@
 
 int main(){
 
-// Há pequenos detalhes que não consegui compreender ao digitar a area e o PIB da cidade
 
     char estado[50], estado2[50], cidade[50], cidade2[50];
     char codigo[10], codigo2[10];
@@ -67,7 +66,7 @@ printf("Nome da cidade: %s \n", cidade);
 printf("População: %f \n", populacao);
 printf("Área: %d \n", area);
 printf("PIB: %d \n", PIB);
-printf("Pontos turísticos: %d \n", pontos_turisticos);
+printf("Pontos turísticos: %d \n\n", pontos_turisticos);
 
 printf("Carta 2: \n");
 printf("Estado: %s \n", estado2);
