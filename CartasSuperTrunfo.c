@@ -2,7 +2,7 @@
 
 int main(){
 
-// Não estou conseguindo achar o erro que está impedindo a rodagem, pode me ajudar?
+// Há pequenos detalhes que não consegui compreender ao digitar a area e o PIB da cidade
 
     char estado[50], estado2[50], cidade[50], cidade2[50];
     char codigo[10], codigo2[10];
