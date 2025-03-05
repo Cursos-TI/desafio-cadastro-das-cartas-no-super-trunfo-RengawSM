@@ -64,7 +64,7 @@ printf("Carta 1: \n");
 printf("Estado: %s \n", estado);
 printf("Código: %s \n", codigo);
 printf("Nome da cidade: %s \n", cidade);
-printf("População: %d \n", populacao);
+printf("População: %f \n", populacao);
 printf("Área: %d \n", area);
 printf("PIB: %d \n", PIB);
 printf("Pontos turísticos: %d \n", pontos_turisticos);
